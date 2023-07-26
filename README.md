@@ -17,8 +17,9 @@ https://github.com/marijavarga/Multimedia_Representation_Of_Sign_Language_Elemen
 
 
 
-https://github.com/marijavarga/Multimedia_Representation_Of_Sign_Language_Elements_And_Transfer_System_To_UE/assets/108982797/fd1ed776-1f1c-4f9b-ac71-e05512b531ac
 
+
+https://github.com/marijavarga/Multimedia_Representation_Of_Sign_Language_Elements_And_Transfer_System_To_UE/assets/108982797/fc62fe78-8587-4cb9-967b-2f675bff41de
 
 
 
