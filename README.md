@@ -10,9 +10,15 @@ A system was created that detects the movement of the hand and interprets the me
 
 
 
-https://github.com/marijavarga/Multimedia_Representation_Of_Sign_Language_Elements_And_Transfer_System_To_UE/assets/108982797/54791182-90be-4b8e-b0f6-bae8c7d5dc9b
 
-https://github.com/marijavarga/Multimedia_Representation_Of_Sign_Language_Elements_And_Transfer_System_To_UE/assets/108982797/2523fe54-93de-4938-89fb-9cd88d535320
+https://github.com/marijavarga/Multimedia_Representation_Of_Sign_Language_Elements_And_Transfer_System_To_UE/assets/108982797/93d9c03f-30ba-45ea-bf5f-b6af0e3a523b
+
+
+
+
+
+https://github.com/marijavarga/Multimedia_Representation_Of_Sign_Language_Elements_And_Transfer_System_To_UE/assets/108982797/fd1ed776-1f1c-4f9b-ac71-e05512b531ac
+
 
 
 
